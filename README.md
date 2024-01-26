@@ -1,5 +1,4 @@
-# TD_GitBranches
-Rémi text      
+# TD_GitBranches    
 Souvent, pour s'amuser, les hommes d'équipage
 Prennent les albatros, vastes oiseaux des mers,
 Qui suivent, indolents compagnons de voyage,
